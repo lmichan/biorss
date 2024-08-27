@@ -6,6 +6,8 @@ Los RSS son una herramienta imprescindible para hacer BIOinvestigación digital,
 
 Michán-Aguirre, Layla, y Minerva Minerva Romero-Pérez. «Inmediatez en salud: la tecnología RSS». Investigación en Educación Médica, vol. 13, n.o 49, enero de 2024, pp. 120-28. DOI.org (Crossref), https://doi.org/10.22201/fm.20075057e.2024.49.23577.
 
+Hoja de calculo en Google para leer RSS 
+https://docs.google.com/spreadsheets/d/1YUCL5i6jMNzto_C1e45ulmFAMNzztT1X8ScHrFbYkDI/edit?gid=1870050414#gid=1870050414
 
 Bots de concultas en PubMed
 Hemos generado bots con consultas de PubMed en Mastodon utilizando la tecnología de RSS
