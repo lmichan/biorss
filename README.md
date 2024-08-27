@@ -4,3 +4,6 @@ Michán-Aguirre, Layla, y Minerva Minerva Romero-Pérez. «Inmediatez en salud: 
 
 Bots de concultas en PubMed
 Hemos generado bots con consultas de PubMed en Mastodon utilizando la tecnología de RSS
+Cienciometría https://mstdn.social/@pubmed.ncbi.nlm.nih.gov.rss-feed.feed.id.1dwan9-pgsersvkhbo2vm6tdelzfvmu7n2wlui2lwa1bfakmiy.ff.20240729140109.utm.medium.rss.utm.content.1dwan9-pgsersvkhbo2vm6tdelzfvmu7n2wlui2lwa1bfakmiy.utm.source.rss-parrot-bot.v.2.18.0.post9.e462414@rss-parrot.net
+Ten simple rules
+https://mstdn.social/@pubmed.ncbi.nlm.nih.gov.rss-feed.feed.id.1zqrb2ou-u8ehgmg22sldlrsj45y3jpyh3uwbdjrybfg4qoqzh.utm.medium.rss.utm.content.1zqrb2ou-u8ehgmg22sldlrsj45y3jpyh3uwbdjrybfg4qoqzh.ff.20240729140426.utm.source.rss-parrot-bot.v.2.18.0.post9.e462414@rss-parrot.net
