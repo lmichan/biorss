@@ -9,6 +9,9 @@ Michán-Aguirre, Layla, y Minerva Minerva Romero-Pérez. «Inmediatez en salud: 
 Hoja de calculo en Google para leer RSS 
 https://docs.google.com/spreadsheets/d/1YUCL5i6jMNzto_C1e45ulmFAMNzztT1X8ScHrFbYkDI/edit?gid=1870050414#gid=1870050414
 
+Video demostrativo de como leer RSS
+https://www.youtube.com/watch?v=5NgNdIwFOUU
+
 Bots de concultas en PubMed
 Hemos generado bots con consultas de PubMed en Mastodon utilizando la tecnología de RSS
 
